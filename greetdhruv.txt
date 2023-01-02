@@ -4,16 +4,16 @@ const greetdhruv = {
     "options": [
       {
         "type": 3,
-        "name": "uss",
-        "description": "Any uss word",
+        "name": "cuss",
+        "description": "Any cuss word",
         "choices": [
           {
-            "name": "",
-            "value": ""
+            "name": "Racist",
+            "value": "nigga"
           },
           {
-            "name": "",
-            "value": ""
+            "name": "Desi",
+            "value": "madarchod"
           }
         ],
         "required": true
